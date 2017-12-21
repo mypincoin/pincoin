@@ -39,7 +39,7 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 
 ### ROADMAP
 
-![roadmap](https://github.com/mypincoin/pincoin/blob/master/ROADMAP.PNG) 
+![roadmap](./ROADMAP.PNG) 
 
 ### ICO 일정
 
