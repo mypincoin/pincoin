@@ -38,7 +38,7 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 
 ### ROADMAP
 
-![roadmap](./ROADMAP.PNG) 
+![roadmap](https://github.com/mypincoin/pincoin/blob/master/ROADMAP.PNG) 
 
 ## 네트워크 구성에 따른 보상체계
 
@@ -47,5 +47,6 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 - 100만달러 달성시 BMW 스포츠카 시상
 - 500만달러 달성시 포르쉐 시상
 - 1000만달러 달성시 람보르기니 시상
+- 그외 네트워크 수에 따른 보너스 (달러)
 
-PinCoin Site : [PinCoin](https://pincoin.io)
+#### PinCoin 가입 경로 : [PinCoin 가입 하기](https://my.pincoin.io/dashboard/auth/signup/KWANUNG)
