@@ -1,3 +1,4 @@
+> PinCoin 가입 경로 : [PinCoin 가입 하기](https://my.pincoin.io/dashboard/auth/signup/KWANUNG)
 ## Welcome to PinCoin
 
 PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았습니다.
@@ -56,4 +57,4 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 - 1000만달러 달성시 람보르기니 시상
 - 그외 네트워크 수에 따른 보너스 (달러)
 
-#### PinCoin 가입 경로 : [PinCoin 가입 하기](https://my.pincoin.io/dashboard/auth/signup/KWANUNG)
+### PinCoin 가입 경로 : [PinCoin 가입 하기](https://my.pincoin.io/dashboard/auth/signup/KWANUNG)
