@@ -38,6 +38,14 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 
 ### ROADMAP
 
-![roadmap](/ROADMAP.png) 
+![roadmap](./ROADMAP.PNG) 
+
+## 네트워크 구성에 따른 보상체계
+
+> 핀코인 안에 여러보상 체계가 있지만 가장중요한것이 랭킹보너스입니다.
+
+- 100만달러 달성시 BMW 스포츠카 시상
+- 500만달러 달성시 포르쉐 시상
+- 1000만달러 달성시 람보르기니 시상
 
 PinCoin Site : [PinCoin](https://pincoin.io)
