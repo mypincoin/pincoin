@@ -1,7 +1,8 @@
-> PinCoin 가입 경로 : [PinCoin 가입 하기](https://my.pincoin.io/dashboard/auth/signup/KWANUNG)
 ## Welcome to PinCoin
 
 PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았습니다.
+
+> PinCoin 가입 경로 : [PinCoin 가입 하기](https://my.pincoin.io/dashboard/auth/signup/KWANUNG)
 
 ### PinCoin 이란?
 
