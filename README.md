@@ -5,6 +5,7 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 ### PinCoin 이란?
 
 > 블럭체인기술을 이용한 **공유경제 커뮤니티** + **렌딩수익** + **네트워크** 가 혼합된  암호화폐 플랫폼.
+> 일반 ICO 나 랜딩류 ICO가 아닌 새로운 플랫폼
 
 #### VISION
 
@@ -39,6 +40,12 @@ PinCoin에 대해 어려워 하시는 분들 위해 간략한 내용을 담았�
 ### ROADMAP
 
 ![roadmap](https://github.com/mypincoin/pincoin/blob/master/ROADMAP.PNG) 
+
+### ICO 일정
+
+- 2018년 1월 프리세일 시작
+ - 구매금액 : 최소 $100 ~ 최대 $20,000
+- 타겟 Price : $1.00
 
 ## 네트워크 구성에 따른 보상체계
 
