@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+site:
+  github:
+    repository_url: https://pincoin.io
